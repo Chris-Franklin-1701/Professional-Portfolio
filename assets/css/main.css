@@ -2792,6 +2792,7 @@ input, select, textarea {
 
 			.image.featured {
 				margin: 0 0 2em 0;
+				border-radius: 10px;
 			}
 
 			.image.left {
