@@ -2598,6 +2598,7 @@ input, select, textarea {
 			padding: 0 1em 3em 1em;
 			margin: 0 2em 0 0;
 			box-shadow: 0 0 15px #b4b4b4;
+			border-radius: 10px;
 			white-space: normal;
 			opacity: 1.0;
 			-moz-transition: opacity 0.75s ease-in-out;
