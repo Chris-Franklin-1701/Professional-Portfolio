@@ -1,5 +1,6 @@
 # Professional-Portfolio
 The Professional Portfolio of Christopher Franklin
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e150ff5-cd90-4bbf-9f3b-f7e4e27f5029/deploy-status)](https://app.netlify.com/sites/hungry-lumiere-fbd4ee/deploys)
 
@@ -17,10 +18,15 @@ The Professional Portfolio of Christopher Franklin
 https://christopherfranklin.dev/
 
 ##List of used technology:
+
 HTML5
+
 CSS
+
 JavaScript
+
 SASS
+
 Webfonts
 
 
